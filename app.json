@@ -2,6 +2,11 @@
   "expo": {
     "name": "archival-alchemist-mobile",
     "slug": "archival-alchemist-mobile",
-    "version": "1.0.0"
+    "scheme": "archival-alchemist-mobile",
+    "version": "1.0.0",
+    "newArchEnabled": true,
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
